@@ -8,7 +8,7 @@
 
 /* media-queries */
 
-@media (min-width: 768px) {
+@media (min-width: 768px) { /* tablet */
     .column {
         background-color: #e84610; /* red */
         width: 30%;
@@ -16,7 +16,7 @@
     }
 }
 
-@media (min-width: 992px)  {
+@media (min-width: 992px)  { /* ipad pro and above up to desktop */
     .column {
         background-color: #0997d3;
         width: 30%;
